@@ -3,6 +3,7 @@
 # ¿Qué es Nómadas Digitales?
 
 Este repositorio es donde desarrollamos un proyecto de una web colaborativa que forma parte del curso de formación de la Asociación Adalab.
+Hemos trabajado juntas: Cristina Gonzalez, Amanda García, Sara Martínez y yo, María Virumbrales.
 
 ## Objetivo
 
